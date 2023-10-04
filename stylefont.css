@@ -1,0 +1,7 @@
+.txt{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:200;
+    text-transform: capitalize;
+    text-decoration: underline;
+    color: rgb(red, green, blue);
+}
